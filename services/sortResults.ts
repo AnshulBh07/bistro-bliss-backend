@@ -25,9 +25,9 @@ function sortByCost(a: IMenuItem, b: IMenuItem) {
 }
 
 function sortByRelevance(a: IMenuItem, b: IMenuItem) {
-  if (a.created_at > b.created_at) return -1;
+  if (a.created_at! > b.created_at!) return -1;
 
-  if (a.created_at < b.created_at) return 1;
+  if (a.created_at! < b.created_at!) return 1;
 
   return 0;
 }

@@ -1,0 +1,102 @@
+[
+  {
+    "_id": {
+      "$oid": "65d4399cc6541d0e912c7021"
+    },
+    "author_first_name": "kuldeep",
+    "author_last_name": "soni",
+    "author_profile_pic": "https://img.freepik.com/free-photo/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign_53876-129416.jpg",
+    "author_about": null,
+    "posts": [
+      {
+        "title": "Why cooking food in stoneware is a healthy practice",
+        "main_picture": "https://static.toiimg.com/thumb/msid-106327211,width-400,resizemode-4,imgsize-108966/106327211.jpg",
+        "intro": "In the age of ceramic, glassware, and non-sticks, cooking food in dull-looking stoneware might sound bizarre. But if you look at the nutritional benefits and its other properties, you might find it pleasing enough to make a switch. If food historians are to be believed, centuries ago, stoneware was the only medium to cook food, and people sweared by it for its ability to enhance flavors, retain heat, and provide a natural, chemical-free cooking surface. In this article, we will tell you the many reasons to make a wise switch to stoneware.",
+        "subtopics": [
+          {
+            "heading": "Even heat distribution",
+            "info": "As per those who have used it, stoneware is known for its exceptional heat retention and distribution capabilities. It absorbs and distributes heat evenly, ensuring that food cooks uniformly, which results in better flavors and textures.",
+            "picture": "https://static.toiimg.com/photo/106328352.cms"
+          },
+          {
+            "heading": "Naturally non-stick",
+            "info": "Yes, they are naturally non-stick, without any synthetic coatings or chemicals. As you use them, they become smoother with time and develop a patina that naturally enhances its non-stick properties.",
+            "picture": null
+          },
+          {
+            "heading": "Versatile in nature",
+            "info": "From sautéing to deep-frying and roasting to baking, they can be used for anything and everything. The versatility of stoneware makes it a must-have kitchen essential.",
+            "picture": "https://static.toiimg.com/photo/106327241.cms"
+          },
+          {
+            "heading": "Retains moisture",
+            "info": "It is said that stoneware's porous nature allows it to absorb moisture during cooking, which keeps the dish moist and flavorful.",
+            "picture": null
+          },
+          {
+            "heading": "Durable",
+            "info": "Stoneware is said to be durable and built to last. Unlike other cookware materials, stoneware doesn't chip, warp, or wear out over time. They are also categorized as nature-friendly and sustainable.",
+            "picture": null
+          },
+          {
+            "heading": "Chemical-free cooking",
+            "info": "As per experts, stoneware offers a safe and natural cooking alternative with no added chemical or non-stick coatings that slowly enter the food when heated.",
+            "picture": "https://static.toiimg.com/photo/106328346.cms"
+          },
+          {
+            "heading": "Easy to maintain",
+            "info": "They are very rustic and surprisingly easy to clean and maintain. It is suggested to use a mild dishwashing liquid and foam to gently clean it, and then season it with a few drops of oil to increase the glaze and shelf life.",
+            "picture": "https://static.toiimg.com/photo/106327247.cms"
+          },
+          {
+            "heading": "How to season stoneware",
+            "info": "Shop for an unglazed stoneware pan or wok. Heat it on a medium flame for 2 minutes. Use a cotton fabric to wipe off the dust and minute particles. Let it cool down. Then wash it with a gentle dishwashing liquid. Let it dry naturally. Heat it again for 30 seconds and apply natural oil with the help of a cotton fabric. Remove excess oil with the help of another piece of cloth and store it in a dry and dark place.",
+            "picture": null
+          }
+        ],
+        "created_at": null,
+        "updated_at": null
+      },
+      {
+        "title": "5 common mistakes people make while cooking Sarso ka Saag",
+        "main_picture": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2020/Sarson_Ka_Saag_Recipe_North_Indian_Saag_1_1600.jpg",
+        "intro": "The winter season is here, and no winter season is complete without a plateful of Sarso ka Saag and Makki ki Roti. While the combo tastes divine, making any of these is no less than an art. If we talk about Sarso ka Saag, it calls for a lot of proportion and taste control to make the perfect saag. Scroll down to learn about the 5 common mistakes people make while cooking Sarso ka Saag and how to avoid them.",
+        "subtopics": [
+          {
+            "heading": "Add too much sarso",
+            "info": "People often forget the right proportion of sarso to be added, and it makes the saag bitter. It is suggested to add a good amount of spinach and bhatua to balance the flavor.",
+            "picture": null
+          },
+          {
+            "heading": "Add extra water",
+            "info": "Saag should cook in its own moisture. Adding excess water while cooking dislodges the flavor of the dish, which spoils the final taste of the dish.",
+            "picture": "https://static.toiimg.com/photo/105564348.cms"
+          },
+          {
+            "heading": "Add excess salt",
+            "info": "After cooking, saag's quantity decreases; hence, it is important to add salt carefully so that once the dish is ready, it doesn't taste like excess.",
+            "picture": null
+          },
+          {
+            "heading": "Miss adding makki ka atta",
+            "info": "People often forget to add makki ka atta, which makes the saag a bit runny and less flavorful. It is suggested to add a small portion of atta to enhance the taste and texture of saag.",
+            "picture": "https://static.toiimg.com/photo/105564368.cms"
+          },
+          {
+            "heading": "Avoid turmeric",
+            "info": "It often happens that saag causes bloating and acidity. It is suggested to add a pinch of turmeric, which contains curcumin and is anti-inflammatory in nature, which helps avoid bloating and acidity.",
+            "picture": null
+          }
+        ],
+        "created_at": null,
+        "updated_at": null
+      }
+    ],
+    "created_at": {
+      "$date": "2024-02-20T05:34:57.181Z"
+    },
+    "updated_at": {
+      "$date": "2024-02-20T05:34:57.181Z"
+    }
+  }
+]

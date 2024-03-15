@@ -1,0 +1,1545 @@
+[{
+  "_id": {
+    "$oid": "65cc7bdf5706ce4182a3750d"
+  },
+  "title": "daal makhani",
+  "category": [
+    "main dish",
+    "lunch",
+    "breakfast",
+    "dinner"
+  ],
+  "price": 265,
+  "discount": null,
+  "description": "Whole Black Lentil Cooked Overnight With Butter And Cream.",
+  "image": "https://images.pexels.com/photos/12737916/pexels-photo-12737916.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "north indian",
+    "indian",
+    "mughlai",
+    "persian",
+    "thalis",
+    "punjabi"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7be95706ce4182a3750f"
+  },
+  "title": "kadhai paneer",
+  "category": [
+    "main dish",
+    "lunch",
+    "breakfast",
+    "dinner"
+  ],
+  "price": 315,
+  "discount": null,
+  "description": "Batons Of Cottage Cheese Cooked With Bell Pepper And Whole Spicesn Finished With Tomato Gravy.",
+  "image": "https://images.pexels.com/photos/9609838/pexels-photo-9609838.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "rating": 4,
+  "delivery_type": "regular",
+  "cuisines": [
+    "north indian",
+    "indian",
+    "thalis",
+    "punjabi"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3753c"
+  },
+  "title": "Gulab Jamun",
+  "category": [
+    "snacks",
+    "desserts"
+  ],
+  "price": 276,
+  "discount": null,
+  "description": "A delightfully flavorful serving of mouthwatering gulab jamun.",
+  "image": "https://aartimadan.com/wp-content/uploads/2020/11/milk-powder-gulab-jamuns.jpg",
+  "rating": 5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "indian",
+    "north indian",
+    "mughali"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37515"
+  },
+  "title": "boondi raita",
+  "category": [
+    "main dish",
+    "lunch",
+    "breakfast",
+    "dinner"
+  ],
+  "price": 115,
+  "discount": null,
+  "description": "Gram Flour Puffs Mixed With Home Made Curd.",
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2013/04/boondi-raita-recipe-1.jpg",
+  "rating": 5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "north indian",
+    "indian",
+    "beverages",
+    "healthy food",
+    "punjabi"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3752b"
+  },
+  "title": "Hot Japanese Matcha Latte",
+  "category": [
+    "drinks"
+  ],
+  "price": 252,
+  "discount": null,
+  "description": "A beverage, consisting of matcha flavoring, mixed with milk and served on ice.",
+  "image": "https://www.sugimotousa.com/asset/5f6d2413c43f9",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "american",
+    "spanish",
+    "italian",
+    "french",
+    "indian",
+    "japanese"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37511"
+  },
+  "title": "tandoori roti",
+  "category": [
+    "main dish",
+    "lunch",
+    "breakfast",
+    "dinner"
+  ],
+  "price": 32,
+  "discount": null,
+  "description": "Whole Wheat Flour Bread Cooked In Tandoor.",
+  "image": "https://www.cookwithmanali.com/wp-content/uploads/2021/07/Tandoori-Roti-500x500.jpg",
+  "rating": 3,
+  "delivery_type": "fast",
+  "cuisines": [
+    "north indian",
+    "indian",
+    "thalis",
+    "punjabi"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37524"
+  },
+  "title": "Cheese Aloo Tikki Burger",
+  "category": [
+    "snacks",
+    "main dish"
+  ],
+  "price": 86,
+  "discount": null,
+  "description": null,
+  "image": "https://cdn1.foodviva.com/static-content/food-images/snacks-recipes/aloo-tikki-burger-recipe/aloo-tikki-burger-recipe.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "american",
+    "indian",
+    "german"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3751a"
+  },
+  "title": "Singapore Noodles Veg",
+  "category": [
+    "main dish",
+    "starter",
+    "snacks"
+  ],
+  "price": 265,
+  "discount": null,
+  "description": "Noodles with vegetables cooked in singapore style.",
+  "image": "https://goodoldvegan.com/wp-content/uploads/2021/07/Vegan-Singapore-Noodles.jpg",
+  "rating": 4,
+  "delivery_type": "fast",
+  "cuisines": [
+    "chinese",
+    "thai",
+    "fast food"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37538"
+  },
+  "title": "Samosa Plate (2 Pcs)",
+  "category": [
+    "snacks",
+    "starter",
+    "main dish"
+  ],
+  "price": 40,
+  "discount": null,
+  "description": "Enjoy two classic triangular pastries filled with spiced potatoes and peas, served with chutneys.",
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/samosa-recipe.jpg",
+  "rating": 4,
+  "delivery_type": "fast",
+  "cuisines": [
+    "indian",
+    "persian",
+    "north indian",
+    "fast food"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37519"
+  },
+  "title": "Steam Momos Veg (8 pieces)",
+  "category": [
+    "starter",
+    "snacks"
+  ],
+  "price": 290,
+  "discount": null,
+  "description": null,
+  "image": "https://storeassets.im-cdn.com/temp/cuploads/ap-south-1%3Aabd0d01f-2fd7-4231-8a23-b7b68eaf18de/bakasurmomos/products/1637829873261Veg-Steam-Momos.jpeg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "nepali",
+    "chinese",
+    "fast food",
+    "momos"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3751b"
+  },
+  "title": "Chicken Burnt Garlic Soup",
+  "category": [
+    "soups",
+    "breakfast",
+    "lunch",
+    "dinner",
+    "main dish"
+  ],
+  "price": 280,
+  "discount": null,
+  "description": "Clear Soup Flavored With Burnt Garlic With Chicken",
+  "image": "https://img-global.cpcdn.com/recipes/9391b3c1d75d9550/680x482cq70/burnt-garlic-chicken-noodle-soup-recipe-main-photo.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "north indian",
+    "chinese"
+  ],
+  "veg": false,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37525"
+  },
+  "title": "Juicy Crispy Chicken Cheese Thigh Burger",
+  "category": [
+    "snacks",
+    "main dish"
+  ],
+  "price": 149,
+  "discount": null,
+  "description": null,
+  "image": "https://www.thespruceeats.com/thmb/zBVaQHpbcBiz2ohBMpRJENoJ6pU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spicy-fried-chicken-sandwich-5220981-hero-01-f742363e943f4fc1aff902da3342765a.jpg",
+  "rating": 4,
+  "delivery_type": "regular",
+  "cuisines": [
+    "american",
+    "north indian"
+  ],
+  "veg": false,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3752c"
+  },
+  "title": "Classic Fries",
+  "category": [
+    "snacks",
+    "starter"
+  ],
+  "price": 189,
+  "discount": null,
+  "description": "Satisfy Your Taste Buds With Burgerama'S Classic French Fries! Crispy Golden Crinkle-Cut Fries, Seasoned To Perfection.",
+  "image": "https://www.kuchpakrahahai.in/wp-content/uploads/2023/05/Air-fryer-french-fries-recipe.jpg",
+  "rating": 4,
+  "delivery_type": "fast",
+  "cuisines": [
+    "american",
+    "german",
+    "indian"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37536"
+  },
+  "title": "Baked Lemon Tart",
+  "category": [
+    "snacks",
+    "desserts"
+  ],
+  "price": 250,
+  "discount": null,
+  "description": null,
+  "image": "https://www.raymondblanc.com/wp-content/uploads/2018/04/Raymond_Blanc_001-1487-1920x1080.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "american",
+    "italian",
+    "american-italian",
+    "indian",
+    "german"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3752e"
+  },
+  "title": "Onion Rings",
+  "category": [
+    "snacks",
+    "starter"
+  ],
+  "price": 180,
+  "discount": null,
+  "description": "he King Of Crunch! Indulge In The Perfect Comfort Food With Our Hand-Tossed Panko-Crusted Onion Rings.",
+  "image": "https://kristineskitchenblog.com/wp-content/uploads/2022/03/crispy-air-fryer-onion-rings-recipe-0775.jpg",
+  "rating": 5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "american",
+    "chinese"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37526"
+  },
+  "title": "Classic Cold Coffee",
+  "category": [
+    "drinks"
+  ],
+  "price": 256,
+  "discount": null,
+  "description": "Our House Favourite. Created with a double shot of our in-hour espresso, blended with milk and vanilla.261 Kcal (regular)",
+  "image": "https://pipingpotcurry.com/wp-content/uploads/2021/08/Cold-coffee-in-a-tall-glass-500x375.jpg",
+  "rating": 5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "american",
+    "spanish",
+    "italian",
+    "french"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37529"
+  },
+  "title": "Chocolicious Milkshake",
+  "category": [
+    "drinks"
+  ],
+  "price": 250,
+  "discount": null,
+  "description": "A frothy & indulgent cold blended beverage in delicious chocolate flavor",
+  "image": "https://thebigmansworld.com/wp-content/uploads/2021/04/keto-chocolate-milkshake4.jpeg",
+  "rating": 4,
+  "delivery_type": "regular",
+  "cuisines": [
+    "american",
+    "spanish",
+    "italian",
+    "french"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37531"
+  },
+  "title": "Chocolate Mousse Pyramid",
+  "category": [
+    "desserts"
+  ],
+  "price": 200,
+  "discount": null,
+  "description": "A silky, soft and delectable chocolate mousse that just melts in your mouth.",
+  "image": "https://img.taste.com.au/hURDQdvd/taste/2016/11/double-chocolate-mousse-cake-60518-1.jpeg",
+  "rating": 4.5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "american",
+    "german",
+    "bakery"
+  ],
+  "veg": false,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3753b"
+  },
+  "title": "Kaju Burfi",
+  "category": [
+    "snacks",
+    "desserts"
+  ],
+  "price": 530,
+  "discount": null,
+  "description": null,
+  "image": "https://recipes.net/wp-content/uploads/2022/07/kaju-katli-1024x684.jpg",
+  "rating": 5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "indian",
+    "north indian",
+    "mughali"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37514"
+  },
+  "title": "Subz Biryani (Served With Riata)",
+  "category": [
+    "main dish",
+    "lunch",
+    "breakfast",
+    "dinner",
+    "rice"
+  ],
+  "price": 295,
+  "discount": null,
+  "description": "Fresh Vegetables Cooked With Rice Flavored With Fresh Mint.",
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/05/chicken-pulao-recipe.jpg",
+  "rating": 5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "north indian",
+    "indian",
+    "mughlai",
+    "turkish",
+    "persian",
+    "afghani"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3752d"
+  },
+  "title": "Peri Peri Crispers",
+  "category": [
+    "snacks",
+    "starter"
+  ],
+  "price": 229,
+  "discount": null,
+  "description": "Step into a world of flavour with our Peri Peri Potato Crispers.",
+  "image": "https://lh3.googleusercontent.com/_EKc3bWrDFOVKlLv2Wgl6IJxU_Qr8_4EvDW0P0HQnStqeMtida4MZ8zmxAzd4CZstqQ-xuviS8Ve8LkN6Qo4cxShqAibPkV8hSKrxqOosg=w512-rw",
+  "rating": 5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "chinese",
+    "thai",
+    "american"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37533"
+  },
+  "title": "Fresh Strawberry Ice Cream",
+  "category": [
+    "snacks",
+    "desserts"
+  ],
+  "price": 89,
+  "discount": null,
+  "description": null,
+  "image": "https://www.ifyougiveablondeakitchen.com/wp-content/uploads/2022/05/homemade-strawberry-ice-cream-open-graph-image-500x375.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "american",
+    "german",
+    "italian",
+    "continental",
+    "ice cream"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3753f"
+  },
+  "title": "Plain Dosa",
+  "category": [
+    "snacks",
+    "main dish",
+    "lunch",
+    "breakfast",
+    "dinner"
+  ],
+  "price": 199,
+  "discount": null,
+  "description": null,
+  "image": "https://i.pinimg.com/736x/e8/dc/7f/e8dc7f0b59b8602ba30621dee3c6291c.jpg",
+  "rating": 5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "indian",
+    "south indian",
+    "north indian"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3751f"
+  },
+  "title": "White Sauce Pasta",
+  "category": [
+    "snacks",
+    "main dish"
+  ],
+  "price": 120,
+  "discount": null,
+  "description": null,
+  "image": "https://www.indianveggiedelight.com/wp-content/uploads/2022/12/white-sauce-pasta-featured.jpg",
+  "rating": 4.5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "italian",
+    "italian-american",
+    "continental",
+    "pastas"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37521"
+  },
+  "title": "Red Sauce Pasta",
+  "category": [
+    "snacks",
+    "main dish"
+  ],
+  "price": 120,
+  "discount": null,
+  "description": null,
+  "image": "https://www.acouplecooks.com/wp-content/uploads/2023/01/Red-Sauce-Pasta-008.jpg",
+  "rating": 4.5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "italian",
+    "italian-american",
+    "continental",
+    "pastas"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37522"
+  },
+  "title": "Cocktail Fruit Crunch Salad",
+  "category": [
+    "salads",
+    "lunch",
+    "dinner"
+  ],
+  "price": 359,
+  "discount": null,
+  "description": "Assorted lettuce, melon, red apple, oranges, pineapple, cherries, grapes, and kiwi.",
+  "image": "https://www.cucinabyelena.com/wp-content/uploads/2023/06/0Z4A0841-scaled.jpg",
+  "rating": 5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "indian",
+    "north indian",
+    "continental",
+    "pastas",
+    "healthy food",
+    "italian",
+    "italian-american"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3752a"
+  },
+  "title": "Lemon Iced Tea",
+  "category": [
+    "drinks"
+  ],
+  "price": 235,
+  "discount": null,
+  "description": "Refreshing zing of lemon iced tea.",
+  "image": "https://www.organicfacts.net/wp-content/uploads/icedteaone.jpg",
+  "rating": 4.5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "american",
+    "spanish",
+    "italian",
+    "french",
+    "indian",
+    "juices"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37530"
+  },
+  "title": "Apple Crumble Pie [1 Slice]",
+  "category": [
+    "snacks",
+    "desserts"
+  ],
+  "price": 387,
+  "discount": null,
+  "description": "Delicious caramelised apples encased in shortcrust pastry topped with a mouthwatering crunchy oatmeal crumble.",
+  "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/10/4/0/FNM_110119-Classic-Apple-Crumb-Pie_s4x3.jpg.rend.hgtvcom.616.462.suffix/1570214934968.jpeg",
+  "rating": 4,
+  "delivery_type": "regular",
+  "cuisines": [
+    "bakery",
+    "german",
+    "american",
+    "british"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37534"
+  },
+  "title": "Chocolate Hazelnut Ice Cream",
+  "category": [
+    "snacks",
+    "desserts"
+  ],
+  "price": 120,
+  "discount": null,
+  "description": null,
+  "image": "https://static01.nyt.com/images/2013/05/21/dining/dj-take/dj-take-superJumbo.jpg",
+  "rating": 4.5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "american",
+    "italian",
+    "american-italian",
+    "indian",
+    "german",
+    "japanese",
+    "ice cream"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37512"
+  },
+  "title": "butter naan",
+  "category": [
+    "main dish",
+    "lunch",
+    "breakfast",
+    "dinner"
+  ],
+  "price": 70,
+  "discount": null,
+  "description": "Fine Flour Bread Cooked In Tandoor And Layered With Butter.",
+  "image": "https://static.toiimg.com/photo/53338316.cms",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "north indian",
+    "indian",
+    "thalis",
+    "mughlai",
+    "punjabi"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3753e"
+  },
+  "title": "Vada (2 Pcs)",
+  "category": [
+    "snacks",
+    "main dish",
+    "lunch",
+    "breakfast",
+    "dinner"
+  ],
+  "price": 199,
+  "discount": null,
+  "description": null,
+  "image": "https://www.archanaskitchen.com//images/archanaskitchen/Indian_Breakfast_Tiffins/South_Indian_Medu_Vada_Sambar_with_Medu_Vada_Maker-8.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "indian",
+    "south indian"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37517"
+  },
+  "title": "Fried Wonton With Garlic Sauce",
+  "category": [
+    "starter"
+  ],
+  "price": 315,
+  "discount": null,
+  "description": "Thin wonton sheet filled with fine chopped veg fried to perfection and served with Szechuan sauce.",
+  "image": "https://biancazapatka.com/wp-content/uploads/2020/08/sichuan-spicy-wontons-in-chili-sauce-500x500.jpg",
+  "rating": 3.5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "chinese",
+    "thai",
+    "momos",
+    "fast food"
+  ],
+  "veg": false,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37527"
+  },
+  "title": "Choco Hazelnut Frappe",
+  "category": [
+    "drinks"
+  ],
+  "price": 285,
+  "discount": null,
+  "description": "A classic cold beverage, created by blending chocolate.",
+  "image": "https://www.nestleprofessional.in/sites/default/files/2021-08/Choco-Frappe.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "american",
+    "spanish",
+    "italian",
+    "french"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37540"
+  },
+  "title": "Egg Dosa",
+  "category": [
+    "snacks",
+    "main dish",
+    "lunch",
+    "breakfast",
+    "dinner"
+  ],
+  "price": 240,
+  "discount": null,
+  "description": null,
+  "image": "https://www.archanaskitchen.com/images/archanaskitchen/10-Brands/Del_Monte_Mayo/Egg_Dosa_Recipe_With_Cheesy_Garlic_Mayo-2.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "indian",
+    "south indian"
+  ],
+  "veg": false,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3751d"
+  },
+  "title": "Vegetable Sweet Corn Soup",
+  "category": [
+    "soups",
+    "breakfast",
+    "lunch"
+  ],
+  "price": 150,
+  "discount": null,
+  "description": null,
+  "image": "https://i.pinimg.com/736x/6c/0d/46/6c0d46b50dd00261b23a722519c891bc.jpg",
+  "rating": 3.5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "north indian",
+    "indian",
+    "chinese"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3753d"
+  },
+  "title": "Idli (3 Pcs)",
+  "category": [
+    "snacks",
+    "main dish",
+    "lunch",
+    "breakfast",
+    "dinner"
+  ],
+  "price": 189,
+  "discount": null,
+  "description": null,
+  "image": "https://maayeka.com/wp-content/uploads/2013/10/soft-idli-recipe.jpg",
+  "rating": 4,
+  "delivery_type": "fast",
+  "cuisines": [
+    "indian",
+    "south indian"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37528"
+  },
+  "title": "Golder Delight Butterscotch Milkshake",
+  "category": [
+    "drinks"
+  ],
+  "price": 285,
+  "discount": null,
+  "description": "A cold-blended beverage with a smooth and buttery flavor.",
+  "image": "https://tyberrymuch.com/wp-content/uploads/2021/11/butterscotch-milkshake-hero-recipe-735x735.jpg",
+  "rating": 4.5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "american",
+    "spanish",
+    "italian",
+    "french"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37532"
+  },
+  "title": "Mini Samosa Chickpea Chaat",
+  "category": [
+    "snacks",
+    "starter"
+  ],
+  "price": 425,
+  "discount": null,
+  "description": "Inspired from the bylanes of old Delhi samosa and chana chaat, mint and ... read more",
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2019/03/chana-chaat-recipe-1.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "chaat",
+    "fast food",
+    "indian",
+    "north indian"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37537"
+  },
+  "title": "Milk Chocolate Truffle",
+  "category": [
+    "snacks",
+    "desserts"
+  ],
+  "price": 110,
+  "discount": null,
+  "description": "Divine soft milk chocolate truffles coated with milk chocolate.",
+  "image": "https://www.thespruceeats.com/thmb/PJCY3e6Kzb-Ko6y-LQeFoOLws7M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/traditional-french-dark-chocolate-truffles-recipe-1375137-hero-01-a7dfb06d912346ee9b5849aeba8b22e9.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "american",
+    "german"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37518"
+  },
+  "title": "Thai Veg Roll ( 5 PCS)",
+  "category": [
+    "starter",
+    "snacks"
+  ],
+  "price": 290,
+  "discount": null,
+  "description": "Vegetable and vermicelli wrapped in imported spring roll.",
+  "image": "https://www.wandercooks.com/wp-content/uploads/2020/09/crispy-thai-spring-rolls-recipe-ft-500x500.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "thai",
+    "fast food",
+    "chinese"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3751c"
+  },
+  "title": "Vegetable Lemon Coriander Soup",
+  "category": [
+    "soups",
+    "breakfast",
+    "lunch",
+    "dinner",
+    "fast food"
+  ],
+  "price": 180,
+  "discount": null,
+  "description": "Soup Having A Strong Flavor Of Lemon And Coriander, With Vegetable.",
+  "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/Lemon_Coriander_Soup_Recipe-2.jpg",
+  "rating": 4.5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "north indian",
+    "indian",
+    "chinese",
+    "thai"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37523"
+  },
+  "title": "Chilli Lime Tofu Avocado Salad",
+  "category": [
+    "salads",
+    "main dish",
+    "lunch",
+    "dinner"
+  ],
+  "price": 375,
+  "discount": null,
+  "description": "Assorted lettuce, mixed bell peppers, cucumber, radish, carrot, broccoli, teriyaki tofu, cherry tomato.",
+  "image": "https://www.coles.com.au/content/dam/coles/inspire-create/jan21-images/Jan21-chilli-and-lime-tofu-salad-976x549.jpg",
+  "rating": 5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "indian",
+    "mexican",
+    "italian",
+    "italian-american"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3752f"
+  },
+  "title": "Chicken Shawarma",
+  "category": [
+    "snacks",
+    "main dish",
+    "starter"
+  ],
+  "price": 120,
+  "discount": null,
+  "description": null,
+  "image": "https://hips.hearstapps.com/hmg-prod/images/190130-chicken-shwarma-horizontal-1549421250.png?crop=1xw:0.843328335832084xh;center,top",
+  "rating": 3.5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "arabian"
+  ],
+  "veg": false,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37535"
+  },
+  "title": "Vanilla Caramel Toffee Crunch Ice Cream",
+  "category": [
+    "snacks",
+    "desserts"
+  ],
+  "price": 160,
+  "discount": null,
+  "description": null,
+  "image": "https://www.coolhullfarm.com/wp-content/uploads/2018/12/1018-1709-Toffee-Caramel-Crunch-Ice-Cream-scaled.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "american",
+    "italian",
+    "american-italian",
+    "indian",
+    "german",
+    "japanese",
+    "ice cream"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37520"
+  },
+  "title": "Mix Sauce Pasta",
+  "category": [
+    "snacks",
+    "lunch",
+    "main dish"
+  ],
+  "price": 120,
+  "discount": null,
+  "description": null,
+  "image": "https://skinnyspatula.com/wp-content/uploads/2022/01/Pink_Pasta_Sauce1.jpg",
+  "rating": 4.5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "italian",
+    "italian-american",
+    "continental",
+    "pastas"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37539"
+  },
+  "title": "Crispy paneer fritters, perfect for snacking.",
+  "category": [
+    "snacks",
+    "main dish",
+    "starter"
+  ],
+  "price": 45,
+  "discount": null,
+  "description": "",
+  "image": "https://pipingpotcurry.com/wp-content/uploads/2022/10/Paneer-Pakora-Recipe-Piping-Pot-Curry.jpg",
+  "rating": 5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "indian",
+    "persian",
+    "north indian",
+    "fast food"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37542"
+  },
+  "title": "Chicken Mughlai Keema",
+  "category": [
+    "snacks",
+    "main dish"
+  ],
+  "price": 550,
+  "discount": null,
+  "description": "Chicken mince with fragrant spices almonds and cashew nuts cooked in mughlai style.",
+  "image": "https://swatisani.net/kitchen/wp-content/uploads/2015/03/IMG_8146.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "indian",
+    "mughlai",
+    "north indian",
+    "street",
+    "street food"
+  ],
+  "veg": false,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.723Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37513"
+  },
+  "title": "Hara Bhara Kebab (6pcs)",
+  "category": [
+    "starter",
+    "lunch",
+    "breakfast",
+    "dinner"
+  ],
+  "price": 265,
+  "discount": null,
+  "description": "Spinach And Mixed Vegetable Mixed With Crushed Nuts.",
+  "image": "https://cookingfromheart.com/wp-content/uploads/2017/06/Hara-Bhara-Kabab-2.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "north indian",
+    "indian",
+    "afghani",
+    "kebabs",
+    "mughlai"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37516"
+  },
+  "title": "mango lassi",
+  "category": [
+    "main dish",
+    "lunch",
+    "breakfast",
+    "dinner"
+  ],
+  "price": 90,
+  "discount": null,
+  "description": "Homemade Drink Blended With Mango and Crushed Ice.",
+  "image": "https://www.whiskaffair.com/wp-content/uploads/2020/05/Mango-Lassi-2-3.jpg",
+  "rating": 5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "north indian",
+    "indian",
+    "beverages",
+    "fast food",
+    "healthy food",
+    "punjabi"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3751e"
+  },
+  "title": "Afghani Soya Chaap",
+  "category": [
+    "main dish",
+    "lunch",
+    "breakfast",
+    "dinner",
+    "starter",
+    "snacks"
+  ],
+  "price": 290,
+  "discount": null,
+  "description": "A delightfully crispy yet soft delectable afghani chaaP served along with flavorsome chutney.",
+  "image": "https://lazzezsmart.in/wp-content/uploads/2023/05/noida-afghani-soya-chaap.jpg",
+  "rating": 5,
+  "delivery_type": "regular",
+  "cuisines": [
+    "north indian",
+    "afghani"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.721Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a3753a"
+  },
+  "title": "Special Kalakand",
+  "category": [
+    "snacks",
+    "desserts"
+  ],
+  "price": 335,
+  "discount": null,
+  "description": null,
+  "image": "https://www.nestleprofessional.in/sites/default/files/2022-07/Kalakand.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "indian",
+    "north indian",
+    "mughali"
+  ],
+  "veg": true,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.722Z"
+  },
+  "updated_at": null,
+  "available": true
+},
+{
+  "_id": {
+    "$oid": "65cc7d7a5706ce4182a37541"
+  },
+  "title": "Chicken Seekh Kebab",
+  "category": [
+    "main dish",
+    "lunch",
+    "dinner"
+  ],
+  "price": 220,
+  "discount": null,
+  "description": "Chicken seekh kabab are a delicious appetizer made with ground minced meat.",
+  "image": "https://fmartfrozenfoods.in/wp-content/uploads/2020/09/ITC_Seekh_Kebab.jpg",
+  "rating": 4.5,
+  "delivery_type": "fast",
+  "cuisines": [
+    "indian",
+    "mughlai",
+    "north indian",
+    "street",
+    "street food"
+  ],
+  "veg": false,
+  "offer": null,
+  "created_at": {
+    "$date": "2024-02-14T08:45:47.723Z"
+  },
+  "updated_at": null,
+  "available": true
+}]
