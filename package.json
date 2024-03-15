@@ -16,6 +16,7 @@
     "@types/jsonwebtoken": "^9.0.6",
     "@types/md5": "^2.3.5",
     "@types/mongodb": "^4.0.7",
+    "@types/mongoose": "^5.11.97",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
@@ -24,6 +25,7 @@
     "jsonwebtoken": "^9.0.2",
     "md5": "^2.3.0",
     "mongodb": "^6.3.0",
+    "mongoose": "^8.2.1",
     "nodemon": "^3.0.3",
     "ts-node": "^10.9.2"
   },
